@@ -41,16 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'malio:pye3@wpi.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: fa-instagram
+  link: 'pye3@wpi.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/bbbbbernieye/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/HaydenInEdinburgh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pengyi Ye graduated from Worcester Polytechnic Institute with a master’s degree in Data Science in May 2020.
+He started off his career as Data Science Intern with Dahua (the largest supplier of monitor in China) and he was in charge of developing pipelines to integrate and clean data for their graphic dataset.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+So far, he has 4 years’ experience in Python and 3 years’ experience in MySQL. He know a great deal about developing and maintaining scalable data pipelines as well as how to support Data Scientist developing models.
