@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pengyi Ye graduated from Worcester Polytechnic Institute with a master’s degree in Data Science in May 2020.
+He started off his career as Data Science Intern with Dahua (the largest supplier of monitor in China) and he was in charge of developing pipelines to integrate and clean data for their graphic dataset.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. During the past two years, he got the opportunity to be the research assistant for one of the greatest labs in his department and do the research in NLP domain. Then, in jis last semester, he went on to be Data Science co-op for Doble technology.
+
+So far, he has 4 years’ experience in Python and 3 years’ experience in MySQL. He know a great deal about developing and maintaining scalable data pipelines as well as how to support Data Scientist developing models.
