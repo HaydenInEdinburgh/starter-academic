@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software engineering, natural language processing and machine learning.
+bio: My research interests include software engineering, natural language processing and machine learning
 
 interests:
 - Software Engineering
@@ -45,7 +45,7 @@ social:
 - icon: fa-instagram
   icon_pack: fab
   link: https://www.instagram.com/bbbbbernieye/
-- icon: github
+- icon: fa-github
   icon_pack: fab
   link: https://github.com/HaydenInEdinburgh
 # Link to a PDF of your resume/CV from the About widget.
