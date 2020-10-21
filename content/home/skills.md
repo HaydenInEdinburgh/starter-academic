@@ -25,7 +25,37 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "80%" 
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "MySQL"
+  description = "90%" 
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
+  description = "70%" 
+
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "70%" 
+
+[[feature]]
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+  description = "50%" 
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
