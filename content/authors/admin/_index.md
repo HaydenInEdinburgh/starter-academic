@@ -41,8 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'malio:pye3@wpi.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: fa-instagram
+  link: 'pye3@wpi.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/bbbbbernieye/
 - icon: google-scholar
