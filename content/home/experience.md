@@ -36,12 +36,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Data Science Co-op"
+  company = "Doble Engineering"
+  company_url = "https://www.doble.com/"
+  location = "Marlborough, MA"
+  date_start = "2020-01-12"
+  date_end = "2020-05-17"
+  description = """
+  The project was to take multiple risk threads and data sources, including national vulnerability database, vendor websites, to identify key features and product-specific items.
+
+  Responsibilities include:
+
+  * Took Multiple threat and vulnerability data sources and vendor websites, to identify product-specific items.
+  * Extracted related records by fuzzy searching and correlated with Doble’s Database to assess risk profiles.
+  * Developed product portfolio-specific analytic displays using **Django** and **SQLite**.
+  """
 
 +++
