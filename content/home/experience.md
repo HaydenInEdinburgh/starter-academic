@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer"
+  company = "Eigen Analytics"
+  company_url = "http://eigenanalytics.com"
+  location = "Newton, MA"
+  date_start = "2020-11-09"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Develop components/modules/plugins in **PHP** for **Joomla** websites.
+  * Automate data retrieval and import tasks using browser automation tools
+    such as Selenium and Chrome plugins.
+  * Incorporate new functionality and web UI to existing back end code written in **Java** and **Python**.
+  * Maintain functionality of local area network, **Windows servers** and Windows workstations at various office locations.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Data Science Co-op"
+  company = "Doble Engineering"
+  company_url = "https://www.doble.com/"
+  location = "Marlborough, MA"
+  date_start = "2020-01-12"
+  date_end = "2020-05-17"
+  description = """The project was to take multiple risk threads and data sources, including national vulnerability database, vendor websites, to identify key features and product-specific items."""
+  Responsibilities include:
 
+  * Took Multiple threat and vulnerability data sources and vendor websites, to identify product-specific items.
+  * Extracted related records by fuzzy searching and correlated with Doble’s Database to assess risk profiles.
+  * Developed product portfolio-specific analytic displays using **Django** and **SQLite**.
 +++
