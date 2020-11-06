@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Automatic Rap Maker"
-summary: "In this work, we implemented a small tool based on deep learning system with information retrieval function, which generates rap lyrics by rapper names or keywords given by users. To be specific, we collected and clean lyrics of existing hip-hop songs as a training data set at first. Next we extracted keywords and do sentimental analysis for each piece of lyrics, and recorded both to create inverted index. Then trained a LSTM model to generate new rap lyrics based on the query from users."
+summary: "In this work, we implemented a small tool based on deep learning system with information retrieval function, which generates rap lyrics by rapper names or keywords given by users."
 authors: [Pengyi Ye, Mengdi Li, Chuchen Dai, Guangxin Hu]
 tags: []
 categories: []
