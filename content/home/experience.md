@@ -18,18 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer"
+  company = "Eigen Analytics"
+  company_url = "http://eigenanalytics.com"
+  location = "Newton, MA"
+  date_start = "2020-11-09"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Develop components/modules/plugins in **PHP** for **Joomla** websites.
+  * Automate data retrieval and import tasks using browser automation tools such as Selenium and 
+    Chrome plugins.
+  * Incorporate new functionality and web UI to existing back end code written in **Java** and 
+    **Python**.
+  * Maintain functionality of local area network, **Windows servers** and Windows workstations at various office locations.
   """
 
 [[experience]]
