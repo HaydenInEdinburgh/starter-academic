@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Applied Data Science with Python Specialization"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/ZSE9W3SSH98U"
+  date_start = "Aug. 2019"
   date_end = ""
   description = ""
 
