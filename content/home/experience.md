@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   location = "Marlborough, MA"
   date_start = "2020-01-12"
   date_end = "2020-05-17"
-  description = """The project was to take multiple risk threads and data sources, including national vulnerability database, vendor websites, to identify key features and product-specific items."""
+  description = """
   Responsibilities include:
 
   * Took Multiple threat and vulnerability data sources and vendor websites, to identify product-specific items.
