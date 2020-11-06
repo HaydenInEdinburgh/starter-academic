@@ -27,14 +27,6 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-<<<<<<< HEAD
-  * Develop components/modules/plugins in **PHP** for **Joomla** websites.
-  * """Automate data retrieval and import tasks using browser automation tools
-    such as Selenium and Chrome plugins""".
-  * """Incorporate new functionality and web UI to existing back end code written in **Java** and **Python**""".
-  * """Maintain functionality of local area network, **Windows servers** and Windows workstations at various office locations."""
-  
-=======
   * Analysing
   * Modelling
   * Deploying
