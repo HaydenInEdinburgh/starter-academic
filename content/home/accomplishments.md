@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Applied Data Science with Python Specialization"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/ZSE9W3SSH98U"
-  date_start = "Aug. 2019"
+  date_start = "2019-08-01"
   date_end = ""
   description = ""
 
