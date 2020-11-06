@@ -56,8 +56,9 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/verify/GQPWDGKNJGAD"
   date_start = "2019-08-01"
   date_end = ""
-
-+[[item]]
+  description = ""
+  
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Applied Plotting, Charting & Data Representation in Python"
