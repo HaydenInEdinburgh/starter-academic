@@ -21,63 +21,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Applied Data Science with Python Specialization"
+  title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/ZSE9W3SSH98U"
-  date_start = "2019-08"
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Applied Machine Learning in Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/A4748UQXM4RQ"
-  date_start = "2019-08"
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
   date_end = ""
-  description = ""
-
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Introduction to Data Science in Python"
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/WYBWP4W4EY4E"
-  date_start = "2019-09"
-  date_end = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
   description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Applied Social Network Analysis in Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/GQPWDGKNJGAD"
-  date_start = "2019-08"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Applied Plotting, Charting & Data Representation in Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/WVYE9QUTL39D"
-  date_start = "2019-05"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Applied Text Mining in Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/Z88H94BKKZVY"
-  date_start = "2019-04"
-  date_end = ""
-  description = ""
-
-
 
 +++
