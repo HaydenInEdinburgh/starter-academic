@@ -1,13 +1,14 @@
 ---
-title: "An example conference paper"
+title: "SWE2: SubWord Enriched and Significant Word Emphasized Framework for Hate Speech Detection"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Guanyi Mou
+- Kyumin Lee
+date: "2020-05-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +20,7 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Hate speech detection on online social networks has become one of the emerging hot topics in recent years. With the broad spread and fast propagation speed across online social networks, hate speech makes significant impacts on society by increasing prejudice and hurting people. Therefore, there are aroused attention and concern from both industry and academia. In this paper, we address the hate speech problem and propose a novel hate speech detection framework called SWE2, which only relies on the content of messages and automatically identifies hate speech. In particular, our framework exploits both word-level semantic information and sub-word knowledge. It is intuitively persuasive and also practically performs well under a situation with/without character-level adversarial attack. Experimental results show that our proposed model achieves 0.975 accuracy and 0.953 macro F1, outperforming 7 state-of-the-art baselines under no adversarial attack. Our model robustly and significantly performed well under extreme adversarial attack (manipulation of 50% messages), achieving 0.957 accuracy and 0.934 macro F1.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,16 +30,10 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Hate Speech
+  url: 'https://en.wikipedia.org/wiki/Hate_speech'
+- CIKM2020
+  url: 'http://www.cikm2020.org/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
