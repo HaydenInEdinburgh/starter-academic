@@ -67,6 +67,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Finance Intern"
+  company = "Hang Seng Bank Limited"
+  company_url = "https://www.hangseng.com/en-hk/home/"
+  location = "Hangzhou, Zhejiang"
+  date_start = "2018-03-01"
+  date_end = "2018-07-31"
+  description = """
+  * Retrieved Volatility Information of the investment products to **MySQL** database
+  * Calucating the banking records and making monthly reports.
+  """
+
+[[experience]]
   title = "Data Engineer Intern"
   company = "Zhejiang DAHUA Technology Co. Ltd"
   company_url = "https://www.dahuasecurity.com/"
