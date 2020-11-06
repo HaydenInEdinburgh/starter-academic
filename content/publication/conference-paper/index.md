@@ -32,7 +32,7 @@ featured: true
 links:
 - name: Hate Speech
   url: 'https://en.wikipedia.org/wiki/Hate_speech'
-- CIKM2020
+- name: CIKM2020
   url: 'http://www.cikm2020.org/'
 
 # Featured image
