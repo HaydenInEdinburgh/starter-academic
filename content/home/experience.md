@@ -28,23 +28,9 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Develop components/modules/plugins in **PHP** for **Joomla** websites.
-  * Automate data retrieval and import tasks using browser automation tools
-    such as Selenium and Chrome plugins.
-  * Incorporate new functionality and web UI to existing back end code written in **Java** and **Python**.
-  * Maintain functionality of local area network, **Windows servers** and Windows workstations at various office locations.
-  """
-
-[[experience]]
-  title = "Data Science Co-op"
-  company = "Doble Engineering"
-  company_url = "https://www.doble.com/"
-  location = "Marlborough, MA"
-  date_start = "2020-01-12"
-  date_end = "2020-05-17"
-  description = """
-  Responsibilities include:
-
-  * Took Multiple threat and vulnerability data sources and vendor websites, to identify product-specific items.
-  * Extracted related records by fuzzy searching and correlated with Doble’s Database to assess risk profiles.
-  * Developed product portfolio-specific analytic displays using **Django** and **SQLite**.
+  * """Automate data retrieval and import tasks using browser automation tools
+    such as Selenium and Chrome plugins""".
+  * """Incorporate new functionality and web UI to existing back end code written in **Java** and **Python**""".
+  * """Maintain functionality of local area network, **Windows servers** and Windows workstations at various office locations."""
+  
 +++
